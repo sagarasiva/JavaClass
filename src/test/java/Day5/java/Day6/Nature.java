@@ -1,4 +1,4 @@
-package Day6;
+package Day5.java.Day6;
 
 public class Nature {
     //parent class
